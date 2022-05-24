@@ -70,6 +70,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'chatup.wsgi.application'
+ASGI_APPLICATION = 'chatup.asgi.application'
 
 
 # Database
